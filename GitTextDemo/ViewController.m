@@ -28,6 +28,7 @@
     [self.view addSubview:view];
     
     
+    
  
 }
 
@@ -35,6 +36,12 @@
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
     self.number++;
     NSLog(@"---%ld",self.number);
+    NSLog(@"---%ld",self.number);
+    NSLog(@"---%ld",self.number);
+    NSLog(@"---%ld",self.number);
+    NSLog(@"---%ld",self.number);
+    NSLog(@"---%ld",self.number);
+    
 }
 
 
