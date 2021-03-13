@@ -44,6 +44,10 @@
     NSLog(@"---%ld",self.number);
     NSLog(@"---%ld",self.number);
     NSLog(@"---%ld",self.number);
+    NSLog(@"---%ld",self.number);
+    NSLog(@"---%ld",self.number);
+    NSLog(@"---%ld",self.number);
+    
     
 }
 
